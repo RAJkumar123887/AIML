@@ -11,8 +11,7 @@
 
 ## 🚀 Live Demo
 
-👉 **[https://rajkumar123887-ai-ml-payroll-app-xxxxx.streamlit.app)** ← replace with your URL after deploying
-
+ https://rajkumar123887.github.io/AIML/
 ---
 
 ## ✨ Features
